@@ -64,7 +64,7 @@ npx cypress run
 ```
 
 ## 🎥 Demo Video
-Projenin otomatik oluşturulmuş demo videosu `final_demo_video.mp4` dosyasında bulunabilir. Bu video, Cypress testleri ve ElevenLabs yapay zeka seslendirmesi kullanılarak otomatik olarak üretilmiştir.
+Projenin otomatik oluşturulmuş demo videosu `final_demo_video.mp4` dosyasında bulunabilir. Bu video, Cypress testleri ve [ElevenLabs](https://elevenlabs.io/) yapay zeka seslendirmesi kullanılarak otomatik olarak üretilmiştir.
 
 ## 📂 Proje Yapısı
 - `/antigravity_hospital`: Rails API Backend kodları
@@ -75,4 +75,4 @@ Projenin otomatik oluşturulmuş demo videosu `final_demo_video.mp4` dosyasında
 
 ---
 ✨ **Bu proje Antigravity AI asistanı ile oluşturulmuştur.**
-Geliştirici: Begüm Handan
+Geliştirici: Begüm Handan Demir
