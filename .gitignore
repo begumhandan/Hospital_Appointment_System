@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+temp_video_with_audio.mp4
+final_demo_videoTEMP_MPY_wvf_snd.mp4
+.env
+.DS_Store

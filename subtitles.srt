@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:07,370
+Antigravity Hastane Randevu Sistemine hoş geldiniz. Şu anda ana sayfada mevcut randevuları görüntülüyoruz.
+
+2
+00:00:07,370 --> 00:00:13,060
+Yeni bir randevu kaydı oluşturmak için üst menüdeki 'Yeni Randevu' butonuna tıklıyoruz.
+
+3
+00:00:13,060 --> 00:00:19,769
+Açılan formda ilgili doktoru ve hastayı seçiyoruz. Ardından randevu tarihini ve saatini belirliyoruz.
+
+4
+00:00:19,769 --> 00:00:28,859
+Gerekli bilgileri girdikten sonra 'Randevu Oluştur' butonuna basarak işlemi tamamlıyoruz. Sistem bizi otomatik olarak ana sayfaya yönlendiriyor.
+
+5
+00:00:28,859 --> 00:00:33,409
+Gördüğünüz gibi, oluşturduğumuz yeni randevu başarıyla listeye eklendi.
+
+6
+00:00:33,409 --> 00:00:38,789
+Randevunun ayrıntılarını incelemek için ilgili kart üzerindeki 'Detay' butonuna tıklıyoruz.
+
+7
+00:00:38,789 --> 00:00:45,009
+Bu sayfada hasta, doktor ve randevu durumu gibi tüm detaylı bilgileri görebilirsiniz.
+
+8
+00:00:45,009 --> 00:00:51,229
+Son olarak, bir randevuyu iptal etmek veya silmek isterseniz 'Sil' fonksiyonunu kullanabilirsiniz.
+
+9
+00:00:51,229 --> 00:00:55,589
+Beni dinlediğiniz için teşekkür eder. İyi günler dilerim.
+
