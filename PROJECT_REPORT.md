@@ -385,3 +385,21 @@ antigravity_hospital_frontend/
 ├── tailwind.config.js
 └── ...
 ```
+## 13. Demo Video ve Dağıtım
+
+### Demo Video Üretimi
+Proje tanıtımı için otomatik bir demo videosu oluşturulmuştur.
+- **Araçlar**: Cypress (Görsel kayıt), ElevenLabs (Seslendirme), MoviePy (Birleştirme), FFmpeg (Altyazı).
+- **Süreç**:
+    1.  `cypress/e2e/appointments.cy.js` testi çalıştırılarak görsel akış kaydedildi.
+    2.  `generate_audio.py` scripti ile [ElevenLabs](https://elevenlabs.io/) API kullanılarak profesyonel seslendirme (Voice ID: `krLzmW3By9JzaVy294Ux`) oluşturuldu.
+    3.  Ses dosyaları ile senkronize `.srt` altyazı dosyası üretildi.
+    4.  `merge_demo.py` scripti ile video, ses ve altyazılar birleştirildi.
+
+### GitHub Deposu
+Proje kaynak kodları ve dokümantasyonu GitHub üzerinde paylaşılmıştır:
+[https://github.com/begumhandan/Antigravity_Hospital_System](https://github.com/begumhandan/Antigravity_Hospital_System)
+
+---
+✨ **Bu proje Antigravity AI asistanı ile oluşturulmuştur.**
+Geliştirici: Begüm Handan
